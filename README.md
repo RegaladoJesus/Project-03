@@ -12,7 +12,7 @@ February 28th
 
 ## References
 * [Game Icons](https://kenney.nl/assets/game-icons)
-All music and sound effects made by me
+* All music and sound effects made by me
 
 ## Future Development
 
